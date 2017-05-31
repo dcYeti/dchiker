@@ -1,0 +1,28 @@
+
+div.hiker_form {
+	width: 1020px;
+	min-width: 80px;
+	border-radius: 5px;
+	border: 3px solid rgb(255,160,122);
+	float: left;
+	margin-top: 20px;
+	background-color: rgb(230,230,250);
+	font-family: calibri;
+}
+
+p.formprompt {
+	float: left;
+	margin-left: 35px;	
+	font-size: 22px;
+	font-weight: bold;
+}
+
+p.formpromptleft {
+	clear: left;
+	margin-left: 35px;
+}
+
+h2{
+	margin-left: 35px;
+}
+
